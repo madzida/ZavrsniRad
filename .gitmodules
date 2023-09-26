@@ -1,0 +1,9 @@
+[submodule "backed-zavrsni"]
+	path = backed-zavrsni
+	url = https://github.com/madzida/ZavrsniRad.git
+[submodule "web-zavrsni"]
+	path = web-zavrsni
+	url = https://github.com/madzida/ZavrsniRad.git
+[submodule "mob-zavrsni"]
+	path = mob-zavrsni
+	url = https://github.com/madzida/ZavrsniRad.git
