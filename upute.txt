@@ -1,0 +1,23 @@
+1.WEB APLIKACIJA
+
+Pokreće se na računalu, linkom: https://web-zavrsni.herokuapp.com/
+
+Kada se aplikacija učita prikaže se početna stranica gdje se već registrirani korisnik može 
+prijaviti, a ne registrirani registrirati.
+
+Aplikacija služi za administraciju i upravljanje zadacima iz kojih će se vršiti testiranje.
+
+Detaljnije upute za korištenje aplikacije možete naći u završnom radu.
+
+2.MOBILNA APLIKACIJA
+
+Pokrenuti na mobitelu link: 
+
+https://expo.dev/accounts/madzida/projects/Space-Invaders/builds/bdd273e8-57e1-44fc-a3c5-967896f63c02
+
+i instalirati aplikaciju na mobilni uređaj.
+
+Kada se aplikacija učita možete isprobati igru sa sljedećim podacima: oznaka razreda je 8,
+učenik je Mirta Vucinic, a sličica životinje je tigar.
+Također možete isprobati i sa svojim podacima ako ste na web aplikaciji pokrenuli test za neki 
+uneseni razred.
